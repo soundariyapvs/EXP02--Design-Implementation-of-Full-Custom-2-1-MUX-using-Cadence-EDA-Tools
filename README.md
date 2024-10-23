@@ -74,7 +74,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![WhatsApp Image 2024-10-23 at 14 57 49_ecf7efb5](https://github.com/user-attachments/assets/030845b6-0251-4c91-add9-e59cd277e45c)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -91,7 +92,8 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+![WhatsApp Image 2024-10-23 at 14 57 49_00dd0c92](https://github.com/user-attachments/assets/e1ac3167-8183-479b-8117-422f726c3db4)
+
 
 
 
